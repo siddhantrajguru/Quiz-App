@@ -32,7 +32,7 @@
 3. **Run** the application:
 
 ```bash
-python quiz_app.py
+python quiz-app.py
 ```
 
 ## 🎮 How to Use
